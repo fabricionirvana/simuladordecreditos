@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+.main {
+	padding: 200px;
+}
+
 body {
     background: linear-gradient(89.76deg, #355EC9 0.22%, #063240 99.81%);
     font-family: 'DM Sans', sans-serif;
